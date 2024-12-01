@@ -1,5 +1,6 @@
 Sistema de Gestão de Relatórios com Assinaturas Digitais
 Funcionalidades
+
 Login Seguro
 
 Autenticação de usuários utilizando JWT (JSON Web Tokens).
